@@ -2,7 +2,7 @@
 
 Contributors:  markhowellsmead
 Plugin Name:  Add EXIF and IPTC meta data to Attachment Post
-Plugin URI:  #
+Plugin URI:  https://wordpress.org/plugins/add-exif-and-iptc-meta-data-to-attachment
 Tags:  attachment, image, exif, iptc, upload, media, meta, metadata
 Author URI:  https://sayhello.ch/
 Author:  Say Hello GmbH
@@ -10,6 +10,8 @@ Requires at least:  5.6
 Tested up to:  5.6.1
 Stable tag:  trunk
 Version:  1.0.0
+License:  GPLv2 or later
+License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
 
